@@ -1,0 +1,4 @@
+```{block type="col-6 grid-item", echo=TRUE}
+## Personal Summary {.summary}
+I am a PhD candidate in Public Policy and Governance. My interests lie in the application of qualitative and quantitative methods to questions about urban environments and mobility policy. My current research broadly examines how external shocks impact cycling, transit, and bikeshare systems and the emergence and effectiveness of governance regimes for promoting cycling in Mexican cities.
+```

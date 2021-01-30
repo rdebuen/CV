@@ -1,0 +1,16 @@
+```{block type='col-6 grid-item', echo=TRUE}
+## Contact information {.box}
+<div class="info-box">
+
+| Center | Left |
+|:------:|:-----|
+| <i class="fas fa-map-marker-alt"></i>|Evans School of Public Policy and Governance,\
+University of Washington|
+| <i class="fas fa-envelope"></i> | rdebuen\@uw.edu |
+| <i class="fas fa-globe"></i> | [Personal webpage](https://rdebuen.netlify.app/en/) |
+| <i class="fab fa-github"></i> | [rdebuen](https://github.com/rdebuen/) |
+| <i class="fab fa-twitter"></i> | [\@rebedebuen](https://twitter.com/rebedebuen) |
+| <i class="fab fa-google"></i> | [Google Scholar](https://scholar.google.com/citations?hl=en&user=3DSfeekAAAAJ&view_op=list_works&sortby=pubdate) |
+
+</div>
+```
